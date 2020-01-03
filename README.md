@@ -4,6 +4,7 @@
 
 This application features the ability to flash the device screen at the specified color and rate.
 
+![index](https://user-images.githubusercontent.com/6654513/71702160-1557c880-2d8b-11ea-9a37-69d065a4b901.png)
 ![][image_screenshot]
 
 ## Application Compiling
